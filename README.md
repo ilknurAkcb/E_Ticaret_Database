@@ -1,1 +1,1 @@
-E_Ticaret için geliştirillmiş bir web uygulamasının veritabanı
+E-Ticaret için geliştirillmiş bir web uygulamasının veritabanı
