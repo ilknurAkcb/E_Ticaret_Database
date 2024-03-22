@@ -1,1 +1,1 @@
-E-Ticaret için geliştirillmiş bir web uygulamasının veritabanı
+E-Ticaret için geliştirilmiş Web uygulamasının MSSQL veritabanı tasarımıdır. 
